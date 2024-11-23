@@ -1,0 +1,31 @@
+body{
+    background-color: #98FB98;
+    text-align: center;
+}
+
+.choice-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: #F0E68C;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.choice-image{
+    height: 75px;
+}
+
+.reset-button{
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+    background-color: black;
+}
+
+h1{
+    color: blue;
+}
